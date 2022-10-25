@@ -11,7 +11,7 @@ function App(homePage){
     console.log(newWork);
 
 }
-App('ohghjo')
+App('oxgxjo') 
 
 
 
